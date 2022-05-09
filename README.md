@@ -1,0 +1,3 @@
+# DictionaryApplicationWithFx
+JavaDicUsingFXNotUsingTrideSearch
+DictionaryBasicVersion
